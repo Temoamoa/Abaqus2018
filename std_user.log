@@ -1,0 +1,20 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB std_user
+Abaqus 3DEXPERIENCE R2018x HotFix 3
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server zeta.
+<19 out of 32 licenses remain available>.
+Begin Compiling Abaqus/Standard User Subroutines
+12/14/2018 10:07:06 AM
+gfortran: error: /I.: No such file or directory
+gfortran: error: /IC:\Program Files\Dassault Systemes\SimulationServices\V6R2018x\win_b64\code\include: Invalid argument
+gfortran: error: /IC:\Program Files\Dassault Systemes\SimulationServices\V6R2018x\win_b64\..\SMAUsubs\PublicInterfaces: Invalid argument
+gfortran: error: /IC:\Program Files (x86)\Microsoft SDKs\MPI\Include: Invalid argument
+gfortran: error: /IC:\Program Files (x86)\Microsoft SDKs\MPI\Include\x64: Invalid argument
+Abaqus Error: Problem during compilation - std_user.for
+Begin Convert MFS to SFS
+12/14/2018 10:07:08 AM
+Run SMASimUtility.exe
+12/14/2018 10:07:08 AM
+End Convert MFS to SFS
+Abaqus/Analysis exited with errors
